@@ -1,6 +1,0 @@
-# MISC Hunter 当前为纯 Python 标准库实现, 无第三方依赖
-# (Kali / Windows 装好 Python 3 即可直接运行)
-#
-# 未来版本可能添加:
-#   rich        # 终端 UI 美化 (1.x)
-#   pycryptodome # 对称加解密框架: Serpent/AES/DES 等 (2.0 密钥解密)
